@@ -1,1 +1,1 @@
-# MapReduce-Concurrency
+# MapReduce-Concurrency Algorithm
